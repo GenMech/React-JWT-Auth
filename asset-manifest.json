@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-JWT-Auth/static/css/main.3e3ef902.css",
+    "main.js": "/React-JWT-Auth/static/js/main.fa246bb6.js",
+    "index.html": "/React-JWT-Auth/index.html",
+    "main.3e3ef902.css.map": "/React-JWT-Auth/static/css/main.3e3ef902.css.map",
+    "main.fa246bb6.js.map": "/React-JWT-Auth/static/js/main.fa246bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e3ef902.css",
+    "static/js/main.fa246bb6.js"
+  ]
+}
